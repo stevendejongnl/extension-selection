@@ -1,10 +1,13 @@
 {
-  "name": "madebysteven-extension-selection",
+  "name": "extension-selection",
   "displayName": "MadebySteven Extension Selection",
   "description": "My personal code extension selection",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
+  },
+  "scripts": {
+    "build": "vsce package"
   },
   "repository": {
     "type": "git",
@@ -36,5 +39,8 @@
     "ryanolsonx.solarized",
     "vincaslt.highlight-matching-tag",
     "WakaTime.vscode-wakatime"
-  ]
+  ],
+  "dependencies": {
+    "@vscode/vsce": "^2.22.0"
+  }
 }
