@@ -1,0 +1,24 @@
+{
+  "name": "@madebysteven/extension-selection",
+  "displayName": "MadebySteven Extension Selection",
+  "description": "My personal code extension selection",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "chrmarti.regex",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "hangxingliu.vscode-systemd-support",
+    "runem.lit-plugin",
+    "ryanolsonx.solarized",
+    "vincaslt.highlight-matching-tag",
+    "WakaTime.vscode-wakatime"
+  ]
+}
