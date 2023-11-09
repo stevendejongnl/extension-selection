@@ -1,11 +1,26 @@
 {
-  "name": "@madebysteven/extension-selection",
+  "name": "madebysteven-extension-selection",
   "displayName": "MadebySteven Extension Selection",
   "description": "My personal code extension selection",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stevendejongnl/extension-selection.git"
+  },
+  "keywords": [
+    "VSCode",
+    "Codium",
+    "Extension",
+    "Pack"
+  ],
+  "author": "MadebySteven",
+  "bugs": {
+    "url": "https://github.com/stevendejongnl/extension-selection/issues"
+  },
+  "homepage": "https://github.com/stevendejongnl/extension-selection#readme",
   "categories": [
     "Extension Packs"
   ],
