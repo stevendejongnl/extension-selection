@@ -2,7 +2,7 @@
   "name": "extension-selection",
   "displayName": "MadebySteven Extension Selection",
   "description": "My personal code extension selection",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.84.0"
   },
