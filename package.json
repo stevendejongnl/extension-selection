@@ -29,7 +29,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "biomejs.biome",
+    "alexanderte.dainty-vscode",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
     "chrmarti.regex",
@@ -54,7 +54,6 @@
     "riccardoforina.storybook-helper",
     "Rubymaniac.vscode-direnv",
     "runem.lit-plugin",
-    "ryanolsonx.solarized",
     "streetsidesoftware.code-spell-checker",
     "unifiedjs.vscode-mdx",
     "vincaslt.highlight-matching-tag",
